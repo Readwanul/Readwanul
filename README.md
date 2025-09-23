@@ -1,9 +1,5 @@
 ## 👋 Hi, I'm Readwanul Hoq  
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/l3vR9OIB9o7bN6qU0/giphy.gif](https://backiee.com/static/wallpapers/1000x563/401721.jpg)" width="600" alt="Animated Programmer"/>
-</p>
-
 🚀 Passionate **Software Developer** | 🎓 CS Student | 💡 Tech Enthusiast  
 
 Currently, I’m working on **sentiment analysis and cyberbullying detection systems**.  
